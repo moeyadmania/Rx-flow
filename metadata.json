@@ -1,0 +1,6 @@
+{
+  "name": "Pharmacy Management System",
+  "description": "A comprehensive mobile-friendly Pharmacy Management System featuring drug inventory control, prescription refill tracking, CRM patient logs, and delivery logistics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
